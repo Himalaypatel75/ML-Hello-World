@@ -1,2 +1,5 @@
 # ML-Hello-World
-This is Hello World for AI-ML concepts
+Types of algorithm used
+- K-nearest neighbours - model (it will find nearest one)
+- Naive Bayes ( it is working on probability)
+- 
